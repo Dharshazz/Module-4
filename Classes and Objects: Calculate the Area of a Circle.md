@@ -13,7 +13,7 @@ To write a Python program that calculates the **area of a circle** based on the 
 ## 🧾 Program
 ```
 import math class 
-cse(): 
+cse():
 def mech(Self,num): 
 a=math.pi*num*num print(f"Area 
 of circle: {a:.2f}") 
